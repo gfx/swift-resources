@@ -1,8 +1,10 @@
 # Swift Resources
 
-List of Resources on the Swift programming language.
+This is a list of essential resources on the Swift programming language.
 
 ## Official Resources
+
+### Swift
 
 * https://developer.apple.com/swift/
 
@@ -13,16 +15,17 @@ List of Resources on the Swift programming language.
 
 ## Blogs
 
+### Swift Programming
+
 * https://medium.com/swift-programming/
 
 ## Articles
 
 ### Swift In Flux
 
-Discussions on Apple Developer Forum
-
-* https://github.com/ksm/SwiftInFlux
+* https://github.com/ksm/SwiftInFlux - An attempt to gather all that is in flux in Swift
 
 ## Libraries
 
 * https://github.com/mxcl/PromiseKit
+
