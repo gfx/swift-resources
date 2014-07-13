@@ -1,6 +1,6 @@
 # Swift Resources
 
-This is a list of essential resources on the Swift programming language.
+This is a list of **essential** resources on the Swift programming language.
 
 ## Official Resources
 
