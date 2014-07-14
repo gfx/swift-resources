@@ -29,6 +29,10 @@ This is a list of **essential** resources on the Swift programming language.
 
 * https://github.com/ksm/SwiftInFlux - An attempt to gather all that is in flux in Swift
 
+#### LearnSwift.tips
+
+* http://www.learnswift.tips - A curated list of helpful resources to learn Swift
+
 ## Libraries
 
 * https://github.com/mxcl/PromiseKit
